@@ -4,3 +4,4 @@ Menata file dan jumlah file untuk keperluan penataan foto pada album magnet
 Menyelesaikan mulai dari take foto sampai hasil cetak di album magnet dalam waktu 2 minggu
 Menambahkan resolusi dari local pc ke github dengan remote
 Tambahan resolusi dari orang lain yaitu tetep semangat dan tetep oke
+Coba tambah disini apakah pullnya beda
