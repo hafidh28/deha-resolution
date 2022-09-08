@@ -5,7 +5,11 @@ Menyelesaikan mulai dari take foto sampai hasil cetak di album magnet dalam wakt
 <<<<<<< HEAD
 Menambahkan resolusi dari local pc ke github dengan remote oi
 Disini mencoba branch hafidh from master
+<<<<<<< HEAD
 =======
 Menambahkan resolusi dari local pc ke github dengan remote
 Tambahan resolusi dari orang lain yaitu tetep semangat dan tetep oke
 >>>>>>> dehagit/main
+=======
+Menambahkan Resolusi lagi setelah mencoba push ke branch hafidh
+>>>>>>> hafidh
