@@ -5,3 +5,6 @@ Menyelesaikan mulai dari take foto sampai hasil cetak di album magnet dalam wakt
 Menambahkan resolusi dari local pc ke github dengan remote
 Tambahan resolusi dari orang lain yaitu tetep semangat dan tetep oke
 Coba tambah disini apakah pullnya beda
+
+Start mencoba git git an dengan latihan khusus live
+-ini latihan untuk merge menggunakan tools Sourcetree
