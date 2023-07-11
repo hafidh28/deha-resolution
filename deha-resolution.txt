@@ -14,3 +14,6 @@ Start tambahan dari branch hompimpa
 
 Start tambah dari branch tidakmungkin
 -menambahkan fitur baru untuk melihat masa depan
+
+Start coba push 2 branch local to 1 branch cloud
+-tambah 1 fitur
