@@ -13,4 +13,8 @@ Start tambahan dari branch hompimpa
 -menambahkan fitu baru melihat data transaksi setiap bulan
 
 Start tambah dari branch tidakmungkin
+-menambahkan fitur baru untuk melihat masa depan
+
+Start hafidh fitur coba coba
+-coba fitur dari branch hafidh
 -tes tambah line baru
